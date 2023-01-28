@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//SylfrWasHere
+
 public class DinoController : MonoBehaviour
 {
     public float JumpHeight = 0f;
